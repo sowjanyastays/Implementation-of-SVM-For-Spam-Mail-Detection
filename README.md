@@ -69,12 +69,12 @@ accuracy
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](output1.png)
-![SVM For Spam Mail Detection](output2.png)
-![SVM For Spam Mail Detection](ouput3.png)
-![SVM For Spam Mail Detection](output4.png)
-![SVM For Spam Mail Detection](output5.png)
-![SVM For Spam Mail Detection](output6.png)
+![SVM For Spam Mail Detection](output1.PNG)
+![SVM For Spam Mail Detection](output2.PNG)
+![SVM For Spam Mail Detection](ouput3.PNG)
+![SVM For Spam Mail Detection](output4.PNG)
+![SVM For Spam Mail Detection](output5.PNG)
+![SVM For Spam Mail Detection](output6.PNG)
 
 
 ## Result:
